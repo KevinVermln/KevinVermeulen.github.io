@@ -148,7 +148,7 @@ experiences:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: PHP
@@ -160,14 +160,17 @@ skills:
       - name: HTML5 & CSS
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: WordPress
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Magento
         level: 85%
 
       - name: MySQL
         level: 85%
+
+      - name: Ruby on Rails
+        level: 75%
 
       - name: Sketch & Photoshop
         level: 60%
