@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Kevin Vermeulen
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: kevin_vermeulen.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kts.vermeulen@gmail.com
@@ -73,15 +73,16 @@ experiences:
       time: 2017 - 2022
       company: Dunico
       details: |
-        Bij Dunico ben ik verantwoordelijk geweest van het bouwen van website's en web applicaties. 
-          - Bullet point
-          - Bullet point
+        Bij Dunico heb ik verschillende website's/webshops en webapplicaties ontwikkeld. Hiermee rekening gehouden 
+          - Server beheer
+          - Onderhouden van klantcontact
+          - Begeleiding geven
     - role: Developer
       time: 2016 - 2017
       company: Zisoo
       details: |
-        Bij Zisoo ben ik verantwoordelijk geweest van het bouwen van website's en web applicaties. 
-          - Ruby on Rails
+        
+          - 
           - CI/CD
     # - role: Senior Software Engineer
     #   time: 2014 - 2015
