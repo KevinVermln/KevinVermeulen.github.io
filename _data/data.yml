@@ -76,6 +76,13 @@ experiences:
         Bij Dunico ben ik verantwoordelijk geweest van het bouwen van website's en web applicaties. 
           - Bullet point
           - Bullet point
+    - role: Developer
+      time: 2016 - 2017
+      company: Zisoo
+      details: |
+        Bij Zisoo ben ik verantwoordelijk geweest van het bouwen van website's en web applicaties. 
+          - Ruby on Rails
+          - CI/CD
     # - role: Senior Software Engineer
     #   time: 2014 - 2015
     #   company: Google, London
@@ -166,13 +173,16 @@ skills:
       - name: Magento
         level: 85%
 
+      - name: SilverStripe
+        level: 85%
+
       - name: MySQL
         level: 85%
 
       - name: Ruby on Rails
         level: 75%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      
+      - name: Drupal
+        level: 75%
 
 footer:
