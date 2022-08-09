@@ -46,15 +46,15 @@ sidebar:
       - item: Squashen
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
 education:
     - degree: Applicatie ontwikkelaar
       university: Nova College Hoofddorp
@@ -73,7 +73,8 @@ experiences:
       time: 2017 - 2022
       company: Dunico
       details: |
-        Bij Dunico heb ik verschillende website's/webshops en webapplicaties ontwikkeld. Hiermee rekening gehouden 
+        Bij Dunico heb ik verschillende website's/webshops en webapplicaties ontwikkeld. Dit met verschillende frameworks/CMS'en afhankelijk van de wensen van de klant. Hiervoor de oplossingen bedacht en uitgevoerd met een team van 5 developers.
+        Tevens heb ik me bezig gehouden met de server omgeving van Dunico om de hardware naadloos aan te sluiten met de software.
           - Server beheer
           - Onderhouden van klantcontact
           - Begeleiding geven
@@ -81,8 +82,8 @@ experiences:
       time: 2016 - 2017
       company: Zisoo
       details: |
-        
-          - 
+        Hier heb ik een bijdrage mogen geven aan een webapplicatie gemaakt in Ruby on Rails met een CI/CD setup.
+          - Git
           - CI/CD
     # - role: Senior Software Engineer
     #   time: 2014 - 2015
