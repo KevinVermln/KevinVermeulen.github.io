@@ -74,7 +74,7 @@ experiences:
       company: Dunico
       details: |
         Bij Dunico heb ik verschillende website's/webshops en webapplicaties ontwikkeld. Dit met verschillende frameworks/CMS'en afhankelijk van de wensen van de klant. Hiervoor de oplossingen bedacht en uitgevoerd met een team van 5 developers.
-        Tevens heb ik me bezig gehouden met de server omgeving van Dunico om de hardware naadloos aan te sluiten met de software.
+        Tevens heb ik me bezig gehouden met de server omgeving van Dunico om de hardware naadloos aan te sluiten met de oplossing die wij hebben ontwikkeld.
           - Server beheer
           - Onderhouden van klantcontact
           - Begeleiding geven
@@ -82,7 +82,7 @@ experiences:
       time: 2016 - 2017
       company: Zisoo
       details: |
-        Hier heb ik een bijdrage mogen geven aan een webapplicatie gemaakt in Ruby on Rails met een CI/CD setup.
+        Hier heb ik een bijdrage mogen geven aan een webapplicatie dat gemaakt is met Ruby on Rails. Hierwas noodzaak dat de dagelijkse 4000 gebruikers geen hinder zouden hebben met de update's. Daardoor hebben we een CI/CD setup opgezet om dit te bereiken.
           - Git
           - CI/CD
     # - role: Senior Software Engineer
